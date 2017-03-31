@@ -1,0 +1,22 @@
+{
+  "name": "pkg-b",
+  "version": "0.0.1",
+  "description": "pkg-b",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alekzonder/yarn-tests.git"
+  },
+  "author": "alekzonder <alekzonder@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alekzonder/yarn-tests/issues"
+  },
+  "homepage": "https://github.com/alekzonder/yarn-tests#readme",
+  "dependencies": {
+    "eslint": "3.18.x"
+  }
+}
